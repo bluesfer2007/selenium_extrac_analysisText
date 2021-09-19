@@ -1,0 +1,1 @@
+BASE_URL='https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/NCO/FrmNCOListado.cpe'
