@@ -8,6 +8,10 @@
 En este repositorio se encuentran los archivos que utilizamos en los video tutoriales de mi canal de Youtube, el cual te invito a visitar. En el siguiente URL: https://www.youtube.com/channel/UCI09UC50RfS_Qoeg7yODRQQ
 </p>
 
+## DESCRIPCIÓN DE PROYECTO
+<p> Extraer datos públicos sobre necesidades de entidades de gobierno, usando la pagina de SERCOP y los requerimientos de ínfima cuantía. Sobre los datos que se extraen generamos un análisis de texto para detectar los términos de mayor frecuencia que nos permitan tener una idea de las necesidades que tienen mayor probabilidad de ser adquiridas. </p>
+
+
 ## OTRO CONTENIDO DE ESTE REPO :chart_with_upwards_trend::
 
 <ul>
